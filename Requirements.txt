@@ -1,0 +1,27 @@
+The To-Do List app helps users:
+
+Create tasks
+Manage and organize tasks
+Mark tasks as completed
+Delete tasks
+Save tasks locally so they remain after closing the app
+
+Functional Requirements :
+
+FR1 — Add Task
+User can type a task and click “Add” to insert it into the list.
+
+FR2 — Delete Task
+User can select a task and click “Delete”.
+
+FR3 — Mark as Completed
+User can check or tag a task as “done”.
+
+FR4 — Save Tasks to Local Storage
+App automatically saves tasks when added/removed.
+
+FR5 — Load Tasks on Startup
+When app opens, it loads previously saved tasks.
+
+FR6 — Clear All Tasks
+Optional → User can delete all tasks.
